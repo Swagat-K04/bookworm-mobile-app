@@ -1,6 +1,7 @@
 # Bookworm - A Book Recommendation React Native App
 
 ## Live Link
+If you are viewing it on web, open it in inspect.
 [Bookworm Live](https://bookworm-mobile--ty86gqm1mw.expo.app)
 
 Bookworm is a mobile application where users can log in, sign up, and share their book recommendations. Built with React Native and Expo, it provides a smooth user experience for discovering and sharing books. The app is powered by a Node.js, Express, MongoDB, and Mongoose backend, hosted on Render.
